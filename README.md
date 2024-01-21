@@ -1,2 +1,2 @@
-# css-animation
-This repo contains an application of css animations
+# CSS Animation
+- This repo contains an application of css animations
